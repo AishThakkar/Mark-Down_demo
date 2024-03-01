@@ -28,7 +28,7 @@ Item 2
 
 ## Links:
 
-[My Instagram Account](https://www.instagram.com/aish_thakkar/)
+[My Instagram Account](https://www.instagram.com/aish_thakkar_/)
 
 
 ## Code
